@@ -1,0 +1,49 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    width: center;
+    text-align: center;
+    background-image: url("https://cdn.pixabay.com/photo/2017/01/18/11/18/fortune-telling-1989579_1280.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    background-color: transparent;
+    width: center;
+    height: 50px;
+    padding: 250px;
+  }
+  
+  .page-title {
+    color: #000000;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .page-subtitle {
+    height: 20px;
+    color: #000000;
+    text-align: center;
+    margin-top: auto;
+  }
+  
+  input {
+    padding: 5px;
+    border-radius: 10px;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+  }
+  
+  .resultado {
+    color: #000000;
+    text-align: center;
+    margin-top: 16px;
+  }
+  
