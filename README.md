@@ -1,5 +1,5 @@
 # 💭 Jogo de Adivinhação
-> Desenvolvido na Imersão Dev da @Alura <br>
+> Desenvolvido por Vitória de Valois na Imersão Dev da @Alura <br> (15/09/21).
 > Esse repositório tem o objetivo de apresentar meus estudos em projetos pessoais.
 
 ## 💻 Tecnologias Usadas
